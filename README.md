@@ -27,12 +27,13 @@ Este proyecto es una página web estática diseñada para transmitir la emoción
 Proyecto/
 │── index.html
 │── Pages/
-│ ├── aboutUs.html
-│ └── contact.html
+│     ├── aboutUs.html
+│     └── contact.html
 │── styles/
-│ └── style.css
+│     └── style.css
 │── Assets/
-│ └── Front loopers.png
+│     └── Front loopers.png
+
 
 
 ---
