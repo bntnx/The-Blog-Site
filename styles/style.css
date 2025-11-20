@@ -26,12 +26,14 @@ header {
   align-items: center;        /* centra verticalmente logo y menú */
   justify-content: space-between;
   padding: 10px 20px;
+  
 }
 
 /* Logo más pequeñito */
 .logo {
   width: 90px;
   height: auto;
+  
 }
 
 
