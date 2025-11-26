@@ -64,6 +64,12 @@ La página comienza con un encabezado, seguido de un título principal y una ser
 ## 👥 Autores
 
 - **Front Loopers**
+- Francisco Lertora
+- Juan Manuel Benitez
+- Noemí Bonta
+- Madeleine Reyes
+- Saulo Ramos
+- Oscar Chavez
 
 📧 **Email de contacto:** contact@frontloopers.com  
 📌 **Nombre del proyecto:** *The blog site*
